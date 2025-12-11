@@ -1,0 +1,71 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  margin: 20px;
+background: linear-gradient(
+  to bottom,
+  rgba(8, 12, 28, 1),
+  rgba(200, 20, 30, 1)
+);
+
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.hone{
+    color: aliceblue;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  
+}
+
+table, th, td {
+  border: 1px solid #d4d0d0;
+  padding: 10px;
+}
+
+form {
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  background: rgba(15, 35, 70, 1);
+  border-radius: 10px;
+}
+.trone{
+    color: #d4d0d0;
+}
+.trtwo{
+    color: aliceblue;
+}
+.trthree{
+    color: aliceblue;
+}
+.trfour{
+    color: aliceblue;
+}
+.feedback{
+    color: brown;
+}
+label{
+    color: aliceblue;
+}
+.d{
+    text-align: center;
+    color: aliceblue;
+}
+.s{
+    text-align: center;
+    color: aliceblue;
+}
